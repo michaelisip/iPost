@@ -1,0 +1,147 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.visit {
+	background-color: transparent;
+	border-bottom: 2px solid #6a1b9a;
+	position: absolute;
+	padding: 10px 5px 5px 15px;
+	right: 0;
+	margin: 20px;
+	z-index: 1;
+}
+
+.visit:hover, .visit a:hover{
+	background-color: #6a1b9a;
+	border-radius: 5px;
+	color: #fff;
+}
+
+.visit a {
+	text-decoration: none;
+	font-family: calibri;
+	font-weight: bold;
+	color: #000;
+	letter-spacing: 2px;
+}
+
+.header-img {
+	width: 100%;
+	height: 700px;
+	background-attachment: fixed;
+	opacity: 0.6;
+}
+
+.header-text {
+	margin: 15% 20%;
+	width: 60%;
+	text-align: center;
+	z-index: 1;
+	color: #000;
+	position: absolute;
+	font-family: calibri light;
+	font-size: 28px;
+}
+
+.button {
+	margin-top: 20px;
+	background-color: transparent;
+	border: 2px solid black;
+	padding: 12px 50px;
+	font-family: 'arial black', sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+
+.button:hover {
+	border: 2px solid #fff;
+	background-color: #fff;
+	color: #000;
+	animation-delay: 700ms;
+}
+
+.sign-up {
+	margin-right: 20px;
+	background-color: #6a1b9a;
+	color: #fff;
+	border: 2px solid #6a1b9a;
+}
+
+
+.sect-img {
+	background-attachment: fixed;
+	background-size: cover;
+	height: 430px;
+}
+
+.dev { 
+	margin: 5% 13%;
+	width: 80%;			
+	position: absolute;
+}
+
+.dev img {
+	height: 300px;
+}
+
+.dev-info {
+	margin: 0;
+	margin-right: 100px;
+	padding: 20px;
+	float: right;
+	width: 60%;
+	color: #fff;
+	background: rgba(53, 48, 48, 0.5);}
+
+.contact {
+	padding: 30px 200px;
+	background-color: #f2f3f4;
+}
+
+.contact h1 {
+	display: inline-block;
+}
+
+.contact-links {
+	margin: 0;
+	margin-top: 7px;
+	float: right;
+	height: inherit;
+	display: inline;
+}
+
+.contact-links img {
+	height: 60px;
+	margin: 0 10px;
+}
+
+.info {
+	padding: 100px 150px;
+}
+
+.info p {
+	padding: 0;
+	font-size: 22px;
+	font-family: calibri light;
+	text-align: justify;
+}
+
+.info img {
+	height: 180px;
+	margin: 5px 30px 20px 0;
+	float: left;
+}
+
+footer {
+	height: 50px;
+	background-color: #212121;
+	padding: 10px 200px;
+	color: #fff;
+}
+
+footer p {
+	padding-top: 10px;
+}
