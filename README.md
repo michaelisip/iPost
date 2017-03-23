@@ -49,5 +49,8 @@
 
 <p> I would like to thank sir Romack Natividad not only for patiently teaching us but also for giving me the opportunity to develop this web application. I've gain a lot of knowledge and let out my creativity in the process. We've had a hard time, honestly, but it's all for us. For us to push through the web developing career. Laravel is just one of the many frameworks we have to love no matter what, and we are ready to accept all the challenges we will encounter </p>
 
-### Developer: Michael John Isip
-### Instructor: Mr. Romack Natividad 
+## Developed By:
+Michael John Isip
+
+## Instructed By:
+Mr. Romack Natividad 
