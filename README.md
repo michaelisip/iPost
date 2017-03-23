@@ -20,6 +20,7 @@
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/home2.png">
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/home3.png">
 <br>
+
 ## Blogs
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/blogs.png">
 <br>
