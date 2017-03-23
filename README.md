@@ -1,4 +1,4 @@
-<p align="center"><img height="100px" src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/laravel.png"></p>
+<p align="center"><img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/laravel.png"></p>
 
 ## About Laravel
 
@@ -8,6 +8,6 @@
 
 ## iPOST | World's Best Blogging Site 
 
-<p> Have you ever felt that urge to let your anger out? Express your feelings without someone knowing about it? The times where the stress is too much for you. Guess what. iPOST! is your friend! With iPOST! you can express your thoughts and privacy you ever dreamt of. Blog all you want, then read your previous blogs and even delete them. Developed by Michael John Isip, it serves as the finals project in Web Application II. </p>
+<p> <img height="100px" src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/iPOST%20Logo.png"> Have you ever felt that urge to let your anger out? Express your feelings without someone knowing about it? The times where the stress is too much for you. Guess what. iPOST! is your friend! With iPOST! you can express your thoughts and privacy you ever dreamt of. Blog all you want, then read your previous blogs and even delete them. Developed by Michael John Isip, it serves as the finals project in Web Application II. </p>
 
 # Screenshots
