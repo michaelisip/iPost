@@ -41,6 +41,8 @@
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/profile.png">
 <br>
 
+
+## Climax
 <p> Unfortunately in the Blogger Profile blade, i had a hard time getting the blogs of a certain blogger. I used hasMany and belongsTo relationship to get the data i want. But only the belongsTo worked, I could get the owner of each blog but not the blogger's blogs in the blogger blade. I dont know why and I've search the problem over the internet specifically on the Stackoverflow but I couldn't get an answer. For this, I would like to apologize for not finishing my project 100%. </p>
 <br>
 
