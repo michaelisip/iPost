@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/laravel.png"></p>
+<p align="center"><img height="100px" src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/laravel.png"></p>
 
 ## About Laravel
 
