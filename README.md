@@ -1,2 +1,1 @@
-# WebApp2---Project
-Web Application II Final Project
+<p style="align: center;"> ![Laravel Logo](https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/laravel.png "Laravel Logo")</p>
