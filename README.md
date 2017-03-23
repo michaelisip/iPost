@@ -14,8 +14,9 @@
 - Paradise for introvert
 - Read someone else's blog
 - Gain information from other bloggers
+<br>
 
-## WELECOME TO IPost!
+## Welcome to IPost!
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/home1.png">
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/home2.png">
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/home3.png">
