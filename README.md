@@ -8,7 +8,7 @@
 
 ## iPOST | World's Best Blogging Site 
 
-<p> Have you ever felt that urge to let your anger out? Express your feelings without someone knowing about it? The times where the stress is too much for you. Guess what. iPOST! is your friend! With iPOST! you can express your thoughts and privacy you ever dreamt of. Blog all you want, then read your previous blogs and even delete them. Developed by Michael John Isip, it serves as the finals project in Web Application II. </p>
+<p> Have you ever felt that urge to let your anger out? Express your feelings? The times where the stress is too much for you. Guess what. iPOST! is your friend! With iPOST! you can express your thoughts and privacy you ever dreamt of. Blog all you want, then read your previous blogs and even delete them. Developed by Michael John Isip, it serves as the finals project in Web Application II. </p>
 
 - You can express your feelings
 - Paradise for introvert
@@ -24,14 +24,23 @@
 ## Blogs
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/blogs.png">
 <br>
+
 ## Blog
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/blog.png">
 <br>
+
 ## Sign-Up
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/sign-up.png">
 <br>
+
 ## Sign-In
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/sign-in.png">
 <br>
+
 ## Blogger Profile
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/profile.png">
+<br>
+
+Unfortunately in the Blogger Profile blade, i had a hard time getting the blogs of a certain blogger. I used hasMany and belongsTo relationship to get the data i want. But only the belongsTo worked, I could get the owner of each blog but not the blogger's blogs in the blogger blade. I dont know why and I've search the problem over the internet specifically on the Stackoverflow but I couldn't get an answer. For this, I would like to apologize for not finishing my project 100%. 
+<br>
+I would like to thank sir Romack Natividad not only for patiently teaching us but also for giving me the opportunity to develop this web application. I've gain a lot of knowledge and let out my creativity in the process. We've had a hard time, honestly, but it's all for us. For us to push through the web developing career. Laravel is just one of the many frameworks we have to love no matter what, and we are ready to accept all the challenges we will encounter <br>
