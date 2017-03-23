@@ -15,25 +15,25 @@
 - Read someone else's blog
 - Gain information from other bloggers
 
-## Screenshots
+## WELECOME TO IPost!
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/home1.png">
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/home2.png">
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/home3.png">
 <br>
 
-## Blogs
+## List of Blogs Posted
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/blogs.png">
 <br>
 
-## Blog
+## Viewing A Blog
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/blog.png">
 <br>
 
-## Sign-Up
+## Register Your Own Account!
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/sign-up.png">
 <br>
 
-## Sign-In
+## Sign-In to your Account
 <img src="https://github.com/mj-isip23/WebApp2---Project/blob/master/screenshots/sign-in.png">
 <br>
 
